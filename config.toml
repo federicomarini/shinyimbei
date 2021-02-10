@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://shiny.imbei.uni-mainz.de:3838"
+baseurl = "./"
 languageCode = "en-us"
 title = "Shiny Server at the IMBEI"
 theme = "hugrid"
