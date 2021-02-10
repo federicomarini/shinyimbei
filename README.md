@@ -19,9 +19,9 @@ A collection of Shiny apps, created by research fellows at the IMBEI (Institute 
   Essential info: a link, a description, the link to a publication, this kind of stuff.
 
 Another option for resizing images and having them nicely squared:
-`convert [inputimg] -resize 250x250 -background black -gravity center -extent 250x250 [outputimg]`
+`convert [inputimg] -resize 250x250 -background black -gravity center -extent 250x250 [outputimg]` (Credits to https://superuser.com/questions/1358715/how-do-i-resize-and-pad-an-image-to-a-given-size-using-imagemagick)
 
-Building and checking
+### Building and checking
 
 ```
 blogdown::build_site()
@@ -30,6 +30,8 @@ blogdown:::preview_site()
 # should open up in the Viewer pane. Please also open up in browser to check the full size
 ```
 
-Updating on the server
+### Updating on the server
 
 Please notify [@federicomarini](https://github.com/federicomarini) by tagging him
+
+Ideally it is a matter of copying over the `public/` folder. _Ideally_...
