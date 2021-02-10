@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://shiny.imbei.uni-mainz.de:3838"
 languageCode = "en-us"
-title = "Shiny Server IMBEI"
+title = "Shiny Server at the IMBEI"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
