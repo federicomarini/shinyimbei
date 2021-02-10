@@ -10,14 +10,5 @@
 	<atom:link href="http://shiny.imbei.uni-mainz.de:3838/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>R</title>
-      <link>http://shiny.imbei.uni-mainz.de:3838/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>http://shiny.imbei.uni-mainz.de:3838/categories/r/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
