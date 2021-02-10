@@ -7,7 +7,7 @@ description = "pcaExplorer: yadda yadda; Manuscript available at..., package lin
 url = "http://shiny.imbei.uni-mainz.de:3838/pcaExplorer"
 [[items]]
 title = "ideal"
-image = "images/full/ideal_logo_v2.png.png"
+image = "images/full/ideal_logo_v2.png"
 thumb = "images/thumbs/thumb_ideal.png"
 alt = "ideal"
 description = "yadda yadda ideal"
