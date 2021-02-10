@@ -14,7 +14,7 @@ publishdir = "public"
 [params]
     # Meta
     title = "Shiny Server at the IMBEI"
-    subtitle = "A collection of Shiny apps, created by research fellows at the IMBEI (Institute of Medical Biostatistics, Epidemiology and Informatics). Curated by Federico Marini"
+    subtitle = "A collection of Shiny apps, created by research fellows at the [**IMBEI** (Institute of Medical Biostatistics, Epidemiology and Informatics)](https://www.unimedizin-mainz.de/imbei/). Curated by [Federico Marini](https://federicomarini.github.io)"
     author = "Federico Marini"
     description = "Shiny Server."
     keywords = "shiny bioinformatics iSEE ideal GeneTonic"
