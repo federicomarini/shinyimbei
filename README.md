@@ -14,7 +14,7 @@ Adding apps: you'll need that...
 - A mid-sized image goes into `static/images/full`, at best some small sized png
 - A thumbnail-sized image goes into `static/images/thumbs`, width of 250 px required to look nice
   - to convert the mid-sized image to a thumbnail, via `ImageMagick`:
-  `convert static/images/full/yourimage.png static/images/thumbs/thumb_image.png - resize x250`
+  `convert static/images/full/yourimage.png -resize x250 static/images/thumbs/thumb_image.png `
 - An entry goes into `data/items.toml`. See the existing entries in there and adapt the content for your new entry. Essential info: a link, a description, the link to a publication, this kind of stuff.
 
 Building and checking
